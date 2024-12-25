@@ -14,7 +14,7 @@ setup(
     python_requires=">=3.8",
     install_requires=[
         "prettytable>=0.7.2",
-        "pysha3>=1.0.2",
+        "safe-pysha3>=1.0.4",
         "crytic-compile==0.3.3",
         "z3-solver==4.11.2.0",
         "networkx==2.5.1",

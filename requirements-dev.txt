@@ -4,7 +4,7 @@ numpy==1.23.3
 openpyxl==3.0.10
 pandas==1.5.0
 prettytable==3.4.1
-pysha3==1.0.2
+safe-pysha3==1.0.4
 python-dateutil==2.8.2
 pytz==2022.2.1
 six==1.16.0
